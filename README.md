@@ -8,6 +8,6 @@ This repository contains a currently undecided number of projects.
 
 ---
 ## 01. Singapore Labour Force Participation Rate
-Data Source: Gapminder.org 
-Packages Used: Forecast, ggplot2
-Methods Used: Holt Linear Trend Model, Holt's Damped Trend Model, Automated ARIMA, Multi-model forecast comparison with `ggplot2`.
+- **Data Source:** Gapminder.org 
+- **Packages Used:** Forecast, ggplot2
+- **Methods Used:** Holt Linear Trend Model, Holt's Damped Trend Model, Automated ARIMA, Multi-model forecast comparison with `ggplot2`.
